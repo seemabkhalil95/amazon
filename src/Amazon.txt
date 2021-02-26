@@ -1,0 +1,23 @@
+1.npx create-react-app amazon-clone
+2.npm install @material-ui/core
+3.npm install @material-ui/icons
+4.npm i react-router-dom
+5.npm i react-currency-format
+6.npm i firebase
+7.npm i @stripe/stripe-js
+8.npm i @stripe/react-stripe-js
+9.npm i axios
+10.firebase init (choose cloud function ) created folder which ( full backend )
+11.npm i express
+12.npm i cors
+13.npm i stripe
+Backend { 
+    API
+    APP CONFIG
+    MIDDLEWARES
+    API ROUTES
+    LISTEND COMMANDS
+    }
+firebase emulators:start
+14.npm i moment
+Card Number : 424242424 press untill finish
